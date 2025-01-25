@@ -1,0 +1,215 @@
+base_skill,skill_variation
+.NET Core,.net
+.NET Core,.NET
+.NET Core,dotnet
+Advanced Java,Advanced Java
+Advanced Java,Java Advance
+Amazon Web Services (AWS),Amazon Web Services (AWS)
+Amazon Web Services (AWS),AWS Cloud
+Angular,Angular
+Angular,AngularJS
+Angular,Angular 2
+Angular,Angular 4
+Advanced Java,Core Java
+Advanced Java,Java Development
+Appium,Appium
+Appium,Appium Testing
+Apache Airflow,Apache Airflow
+Apache Airflow,Airflow
+Apache Ant,Apache Ant
+Apache Camel,Apache Camel
+Apache Cordova,Apache Cordova
+Apache Flink,Apache Flink
+Apache HBase,Apache HBase
+Apache Hive,Apache Hive
+Apache Kafka,Apache Kafka
+Apache Kafka,Kafka
+Apache Maven,Apache Maven
+Apache Parquet,Apache Parquet
+Apache Spark,Apache Spark
+Apache Storm,Apache Storm
+Apache Tomcat,Apache Tomcat
+Appium Testing,Appium Testing
+AWS Lambda,AWS Lambda
+AWS Lambda,Amazon Lambda
+Babel.JS,Babel.JS
+Babel.JS,Babel
+Backbone.JS,Backbone.JS
+Backbone.JS,Backbone
+Big Data Processing,Big Data Processing
+Big Data,Big Data
+Big Data Analytics,Big Data Analytics
+Black Box Testing,Black Box Testing
+Bootstrap,Bootstrap
+Bootstrap,Twitter Bootstrap
+Browserify,Browserify
+C (Programming Language),C (Programming Language)
+C (Programming Language), C
+C#,C#
+C#,C Sharp
+C++,C++
+C++,C Plus Plus
+Cloud Computing,Cloud Computing
+Cloud,Cloud Services
+Cloud Computing,Cloud Infrastructure
+Core Java,Core Java
+Core Java,Java Core
+Core Java,Java
+Crayon,Crayon
+CSS (Cascading Style Sheets),CSS
+CSS (Cascading Style Sheets),Stylesheets
+Cucumber,Cucumber
+Cucumber,Gherkin
+Data Analysis,Data Analysis
+Data Analysis,Data Science
+Data Cleanup,Data Cleanup
+Data Cleaning,Data Cleaning
+Data Collection,Data Collection
+Data Extraction,Data Extraction
+Data Extraction,Data Parsing
+Data Interpretation,Data Interpretation
+Data Modeling,Data Modeling
+Data Modeling,Data Architecture
+Data Pipeline,Data Pipeline
+Data Pipeline,ETL
+Data Visualisation,Data Visualization
+Data Visualization,Data Visualisation
+Data Warehousing,Data Warehousing
+Data Wrangling,Data Wrangling
+Databox,Databox
+Debugging,Debugging
+Debugging,Code Debugging
+Deep Learning,Deep Learning
+Deep Learning,AI
+Django,Django
+Django,Python Django
+Docker,Docker
+Docker,Containerization
+Git,Git
+Git,Git Version Control
+GitHub,GitHub
+GitHub,GitHub Repositories
+Go,Go
+Go,GoLang
+Google Domains,Google Domains
+Google Domains,Domain Management
+Gradle,Gradle
+Gradle,Build Tool
+Grafana,Grafana
+Grafana,Dashboarding
+GraphQL,GraphQL
+GraphQL,Graph Query Language
+Grunt Framework,Grunt Framework
+Gulp.JS,Gulp.JS
+Gulp,GulpJS
+Hadoop,Hadoop
+Hadoop,Big Data Hadoop
+HTML,HTML
+HTML,HTML5
+Java,Java (Programming Language)
+Java,Java SE
+JavaScript,JavaScript (Programming Language)
+JavaScript,JS
+JavaScript,ES6
+Jekyll,Jekyll
+Jekyll,Jekyll Framework
+Jenkins,Jenkins
+Jenkins,Ci/CD Jenkins
+Jest,Jest
+Jest,Unit Testing
+Jira,Jira
+Jira,Project Management Tool
+Jmeter,Jmeter
+Jmeter,Load Testing
+jQuery,jQuery
+JSON,JSON
+JSON,JavaScript Object Notation
+JUnit,JUnit
+JUnit,Unit Testing
+Kibana,Kibana
+Kibana,ElasticSearch
+Kotlin,Kotlin
+Kotlin,Android Kotlin
+Kubernetes,Kubernetes
+Kubernetes,K8s
+Machine Learning,Machine Learning
+Machine Learning,ML
+Machine Learning,ML Models
+Matplotip,Matplotlib
+MongoDB,MongoDB
+MongoDB,NoSQL Database
+Negative Testing,Negative Testing
+New Relic,New Relic
+New Relic,Application Monitoring
+Next.JS,Next.JS
+Next.JS,nextjs
+Next.JS,next 
+Next.JS, next js
+Next.JS,Next.js Framework
+Node.JS,Node.JS
+Node.JS,Node.Js
+Node.JS,Node
+Node.JS,node js
+Numpy,Numpy
+Numpy,NumPy Library
+Pandas,Pandas
+Pandas,Data Analysis Library
+PHP,PHP
+PHP,Hypertext Preprocessor
+Pipedrive,Pipedrive
+Pipedrive,CRM Tool
+PowerShell,PowerShell
+PowerShell,Scripting Language
+Processing large data sets,Data Processing
+Python,Python
+Python,Python Script
+Python,Python Programming
+Python,Python Programming Language
+Qlik Replicate,Qlik Replicate
+Qlik Sense,Qlik Sense
+Qlik Sense,Data Visualization
+R (Programming Language),R (Programming Language)
+R,R Language
+React JS,React JS
+React JS,React
+React JS,React.JS
+React JS , React.js (Javascript Library)
+React Native,React Native
+React Native,ReactJS Mobile
+Redux,Redux
+Redux,State Management
+Regex,Regex
+Regex,Regular Expressions
+Regression Testing,Regression Testing
+Regression Testing,Automated Regression Testing
+REST APIs,REST APIs
+REST,RESTful APIs
+REXX (Restructured Extended Executor),REXX (Restructured Extended Executor)
+Rhinoceros 3D,Rhinoceros 3D
+Rhinoceros 3D,3D Modelling
+Ruby,Ruby
+Ruby,RoR (Ruby on Rails)
+Rust,Rust
+Rust,Rust Programming
+SAS,SAS
+SAS,Statistical Analysis Software
+Scala,Scala
+Scala,Functional Programming
+Seaborn,Seaborn
+Seaborn,Seaborn Library
+Selenium,Selenium
+Selenium,Automation Testing
+Selenium Testing,Selenium Testing
+SQL,SQL
+SQL,Structured Query Language
+Stastistics,Statistics
+Statistical analysis and computing,Statistical analysis and computing
+Swift (Programming Language),Swift (Programming Language)
+Swift,Swift 5
+Tailwind,Tailwind
+Tailwind,Tailwind CSS
+TypeScript,TypeScript
+TypeScript,TS
+Automation Testing,Automation Testing
+Automation Testing,Automated Testing
+
